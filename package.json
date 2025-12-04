@@ -1,0 +1,13 @@
+{
+  "nimi": "json-palvelinmallipohja",
+  "versio": "0.1.0",
+  "kuvaus": "",
+  "pää": "palvelin.js",
+  "skriptit": {
+    "aloitus": "solmu palvelin.js"
+  },
+  "riippuvuudet": {
+    "korjaukset": "^2.8.5",
+    "json-palvelin": "^0.16.3"
+  }
+}
